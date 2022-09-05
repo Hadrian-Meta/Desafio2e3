@@ -70,7 +70,7 @@
         <OutArgument x:TypeArguments="x:String">[str_NomeEmpresa]</OutArgument>
       </ui:InputDialog.Result>
     </ui:InputDialog>
-    <ui:OpenBrowser AutomaticallyDownloadWebDriver="{x:Null}" CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Open Browser" sap:VirtualizedContainerService.HintSize="494,765" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="https://www.google.com.br/">
+    <ui:OpenBrowser AutomaticallyDownloadWebDriver="{x:Null}" CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Open Browser do Google" sap:VirtualizedContainerService.HintSize="494,765" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="https://www.google.com.br/">
       <ui:OpenBrowser.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
